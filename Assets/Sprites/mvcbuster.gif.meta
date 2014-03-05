@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: c7f5453fcd771804db4d11271ece576e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: mvcbuster_0
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 358
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 428
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 375
+        width: 140
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 373
+        width: 118
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 365
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 289
+        width: 194
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 285
+        width: 132
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 285
+        width: 138
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 140
+        width: 132
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 118
+        width: 103
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 140
+        width: 118
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 146
+        width: 138
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 156
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvcbuster_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 13
+        width: 194
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

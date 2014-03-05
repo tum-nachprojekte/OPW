@@ -11,7 +11,7 @@ PlayerSettings:
   targetResolution: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: opw
+  productName: opw2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   defaultScreenWidth: 1024
@@ -74,7 +74,9 @@ PlayerSettings:
     16:9: 1
     Others: 1
   iPhoneBundleIdentifier: com.Company.ProductName
-  productGUID: 4898661e5f6ca4c2eb7036c9029dbcd1
+  metroEnableIndependentInputSource: 0
+  metroEnableLowLatencyPresentationAPI: 0
+  productGUID: 2e7f96bb4cbf26145a88b3e28eadea22
   iPhoneBundleVersion: 1.0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 9
@@ -147,7 +149,7 @@ PlayerSettings:
   flashStrippingLevel: 2
   spritePackerPolicy: 
   scriptingDefineSymbols: {}
-  metroPackageName: opw
+  metroPackageName: opw2
   metroPackageLogo: 
   metroPackageVersion: 
   metroCertificatePath: 
@@ -155,7 +157,7 @@ PlayerSettings:
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: opw
+  metroApplicationDescription: opw2
   metroTileLogo: 
   metroTileWideLogo: 
   metroTileSmallLogo: 
@@ -168,6 +170,7 @@ PlayerSettings:
   metroSplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
   metroSplashScreenUseBackgroundColor: 0
   metroCapabilities: {}
+  metroUnprocessedPlugins: []
   metroCompilationOverrides: 1
   blackberryDeviceAddress: 
   blackberryDevicePassword: 

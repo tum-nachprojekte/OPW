@@ -1,4 +1,0 @@
-opw
-===
-
-Operation: Weltherrschaft

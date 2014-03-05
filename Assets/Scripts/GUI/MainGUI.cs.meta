@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 96bb65f8f1ed743a6a85099f784d6a6d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BarSpritePrefab: {fileID: 100000, guid: c2f1c60f480d949d6ba1f5a142fe9ac4, type: 2}
+  - TextPrefab: {fileID: 100000, guid: faf5c0bbddd4d4d5f84b9fdd06e5ccac, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

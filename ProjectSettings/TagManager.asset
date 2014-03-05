@@ -12,10 +12,10 @@ TagManager:
   Builtin Layer 5: 
   Builtin Layer 6: 
   Builtin Layer 7: 
-  User Layer 8: 
-  User Layer 9: 
-  User Layer 10: 
-  User Layer 11: 
+  User Layer 8: Projectile
+  User Layer 9: Player
+  User Layer 10: GUI
+  User Layer 11: ActiveGUI
   User Layer 12: 
   User Layer 13: 
   User Layer 14: 
@@ -40,4 +40,12 @@ TagManager:
   - name: Default
     userID: 0
     uniqueID: 0
+    locked: 0
+  - name: Anim
+    userID: 1
+    uniqueID: 118038741
+    locked: 0
+  - name: GUI
+    userID: 2
+    uniqueID: 563300083
     locked: 0
